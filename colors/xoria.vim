@@ -74,8 +74,8 @@ hi StatusLine guifg=#d0d0d0 ctermfg=252 guibg=#272727 ctermbg=235 gui=NONE cterm
 hi StatusLineNC guifg=#272727 ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StatusLineTerm guifg=#d0d0d0 ctermfg=252 guibg=#272727 ctermbg=235 gui=NONE cterm=NONE
 hi StatusLineTermNC guifg=#272727 ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TabLine guifg=#272727 ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TabLineSel guifg=#585858 ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TabLine guifg=#585858 ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TabLineSel guifg=#ffffff ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TabLineFill guifg=NONE ctermfg=NONE guibg=#222222 ctermbg=235 gui=NONE cterm=NONE
 hi Terminal guifg=#d0d0d0 ctermfg=252 guibg=#121212 ctermbg=233 gui=NONE cterm=NONE
 hi Visual guifg=NONE ctermfg=NONE guibg=#333333 ctermbg=236 gui=NONE cterm=NONE
